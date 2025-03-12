@@ -56,7 +56,7 @@ Exécutez npm install pour installer les dépendances du frontend.
 Démarrez l'application React avec npm start.  
 Ouvrez http://localhost:3000 dans votre navigateur et testez la soumission du formulaire.  
 
-**Conclusion**
+**Conclusion**  
 Ce projet illustre comment sécuriser les applications web contre les attaques CSRF en utilisant des tokens générés côté serveur. Il montre également comment intégrer la protection CSRF dans une architecture utilisant Express.js pour le backend et React.js pour le frontend.  
 
 **Auteurs**  
